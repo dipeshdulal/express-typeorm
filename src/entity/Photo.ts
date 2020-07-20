@@ -10,7 +10,7 @@ export class Photo {
       this.description = body.description;
       this.filename = body.filename;
       this.ispublished = body.ispublished;
-      this.views = body.views 
+      this.views = body.views
     }
   }
 
